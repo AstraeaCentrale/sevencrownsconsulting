@@ -221,11 +221,11 @@ export default function Disclaimer() {
             fontSize: "calc(1em - calc(1em / 3))",
           }}
         >
-          Senri Mana and related resources © 2018 Cygames, Inc.
+          Senri Mana and related resources ©2018 Cygames, Inc.
           <br />
-          © 2025 Astraea Centrale, a tbmassoc brand
+          ©2025 Astraea Centrale, a tbmassoc brand
           <br />
-          under joint operation with vTbmassoc
+          under joint operation with vtNet, a tbmassoc network
           <br />
           <br />
           some images courtesy of the following:

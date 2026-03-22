@@ -155,7 +155,7 @@ export default function Services() {
             </p>
             <br />
             <p>
-              © 2018-2025 SCC Ventures, Inc.
+              ©2018-2025 SCC Ventures, Inc.
               <br />
               based in Japan
             </p>
