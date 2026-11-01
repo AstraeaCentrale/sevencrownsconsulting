@@ -230,7 +230,8 @@ export default function Disclaimer() {
           <br />
           some images courtesy of the following:
           <ul>
-            <li>Hankyu Hanshin Properties Corp.</li>
+            {/* <li>Hankyu Hanshin Properties Corp.</li> */}
+            <li>Colliers International Japan KK</li>
             <li className="scvFdm" onClick={() => openExt("unsplash")}>
               Unsplash
             </li>
